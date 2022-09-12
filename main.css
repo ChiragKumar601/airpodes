@@ -65,7 +65,7 @@ button{
 /* header */
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/pixabay_headphone.png) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/images/pixabay_headphone.png) center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: stretch;
@@ -162,7 +162,7 @@ button{
 
 /* features */
 .features{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/girlheadphone.png) center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/images/girlheadphone.png) center/cover no-repeat fixed;
 }
 .feature-item{
     padding: 2.5rem;
@@ -351,7 +351,7 @@ button{
 /* newsletter */
 .newsletter{
     height: 60vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/background-img-2.png) center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(assets/images/background-img-2.png) center/cover no-repeat fixed;
     padding: 5rem 0;
     text-align: center;
 }
